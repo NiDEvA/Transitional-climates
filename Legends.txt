@@ -1,0 +1,71 @@
+1. Latitudinal zonation with transitional climates:
+   0. No Data
+   1. Tropical-Subtropical
+   2. Subtropical
+   3. Subtropical-Temperate
+   4. Temperate
+   5. Temperate-Polar
+   6. Polar
+2. Köppen-Geiger classification with transitional climates:
+   0. No Data
+   1. Frost
+   2. Tundra-Frost
+   3. Continental-Tundra-Frost
+   4. Continental-Tundra
+   5. Dry-Continental-Tundra
+   6. Dry-Continental
+   7. Dry
+   8. Temperate-Dry
+   9. Temperate
+   10. Tropical-Temperate
+   11. Tropical
+4. Holdridge’s World Life zone system with transitional climates:
+   0. No Data
+   1. Polar
+   2. Subpolar-Polar
+   3. Boreal-Subpolar-Polar
+   4. Boreal-Subpolar
+   5. Boreal
+   6. Cool Temperate-Boreal
+   7. Cool Temperate
+   8. Warm Temperate-Cool Temperate
+   9. Subtropical-Warm Temperate-Cool Temperate
+   10. Subtropical-Warm Temperate
+   11. Subtropical
+   12. Tropical-Subtropical
+   13. Tropical
+5. Broad biomes from Global Environmental Stratification System with transitional climates:
+   0. No Data
+   1. Artic
+   2. Boreal-Artic
+   3. Boreal
+   4. Cool Temperate-Boreal
+   5. Cool Temperate
+   6. Warm Temperate-Cool Temperate
+   7. Dry-Warm Temperate-Cool Temperate
+   8. Dry-Warm Temperate
+   9. Subtropical-Dry-Warm Temperate
+   10. Subtropical-Dry
+   11. Tropical-Subtropical-Dry
+   12. Tropical-Subtropical
+   13. Tropical
+6. Biomes from WWF Terrestrial Ecoregions with transitional climates:
+   0. No Data
+   1. Rock and ice
+   2. Tundra-Rock and ice
+   3. Boreal forests or taiga-Tundra-Rock and ice
+   4. Montane grasslands and shrublands-Boreal forests or taiga-Tundra-Rock and ice
+   5. Montane grasslands and shrublands-Boreal forests or taiga-Rock and ice
+   6. Temperate-Montane grasslands and shrublands-Boreal forests or taiga-Rock and ice
+   7. Deserts and xeric shrublands-Temperate-Montane grasslands and shrublands-Boreal forests or taiga-Rock and ice
+   8. Deserts and xeric shrublands-Temperate-Montane grasslands and shrublands-Rock and ice
+   9. Deserts and xeric shrublands-Temperate-Montane grasslands and shrublands
+   10. Flooded grasslands and savannas-Deserts and xeric shrublands-Temperate-Montane grasslands and shrublands
+   11. Mediterranean forests, woodlands, and scrub-Flooded grasslands and savannas-Deserts and xeric shrublands-Temperate-Montane grasslands and shrublands
+   12. Temperate-Flooded grasslands and savannas-Deserts and xeric shrublands
+   13. Flooded grasslands and savannas-Deserts and xeric shrublands
+   14. Flooded grasslands and savannas
+   15. Tropical and Subtropical-Flooded grasslands and savannas
+   16. Mangrove-Tropical and Subtropical-Flooded grasslands and savannas
+   17. Mangrove-Tropical and Subtropical
+   18. Mangrove
