@@ -9,12 +9,12 @@ Layer legends:
 
 1. Latitudinal zonation with transitional climates:
    0. No Data
-   2. Tropical-Subtropical
-   3. Subtropical
-   4. Subtropical-Temperate
-   5. Temperate
-   6. Temperate-Polar
-   7. Polar
+   1. Tropical-Subtropical
+   2. Subtropical
+   3. Subtropical-Temperate
+   4. Temperate
+   5. Temperate-Polar
+   6. Polar
 2. Köppen-Geiger classification with transitional climates:
    0. No Data
    1. Frost
