@@ -1,7 +1,7 @@
 # Transitional-climates
 Date submitted: 2023-12-12
 
-Last modified: 2023-12-12
+Last modified: 2024-01-01
 
 We provide in the repository the five climatic layers representing typical climates and transitional climates derived from the latitudinal zonation, Köppen’s classification (Beck et al., 2018), Holdridge’s classification (Holdridge, 1996), Metzger’s classification (Metzger et al., 2012) and Ecoregions system (Dinerstein et al., 2017). These layers are derived from a modification of the layers built in Coca-de-la-Iglesia et al. (2021). The biomes corresponding to Tropical and subtropical moist broadleaf forests, Tropical and subtropical dry broadleaf forests and Tropical and subtropical coniferous forests in Ecoregions system have been grouped in the Temperate category to facilitate the analysis. The biomes corresponding to Temperate broadleaf and mixed forests, Temperate conifer forests and Temperate grasslands, savannas, and shrublands in Ecoregions system have been grouped in the Temperate category to facilitate the analysis.
 
